@@ -38,3 +38,7 @@ roscore
 <img src="https://user-images.githubusercontent.com/109974986/182045628-f142cab4-897b-4e67-8697-ccc1cc2d1963.jpg" width="400">
   </div>
   
+  ## References:
+#### To download VirtualBox https://www.virtualbox.org/
+#### To download Ubuntu https://ubuntu.com/download
+#### To Get the commands to download ROS noetic http://wiki.ros.org/noetic/Installation/Ubuntu
